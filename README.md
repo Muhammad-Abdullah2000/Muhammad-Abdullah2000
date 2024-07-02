@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan.</h3>
 
+<p align="left"> I am Muhammad Abdullah from Pakistan. I am a Software Engineer with expertise in Web Development. I have professional experience in MERN Stack development, UI/UX Designing, and Software Development. </p>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-abdullah2000&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-abdullah2000" /> </p>
