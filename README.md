@@ -3,7 +3,7 @@
   <img src="https://github.com/Muhammad-Abdullah2000/Muhammad-Abdullah2000/blob/main/Github%20Banner.png" alt="Banner" style="width: 100%; max-width: 800px;">
 </div>
 
-<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
+<h1 align="center">Hello 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan.</h3>
 
 <p align="left"> I am Muhammad Abdullah from Pakistan. I am a Software Engineer with expertise in Web Development. I have professional experience in MERN Stack development, UI/UX Designing, and Software Development. </p>
