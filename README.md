@@ -8,7 +8,7 @@
 
 <p align="left"> I am Muhammad Abdullah from Pakistan. I am a Software Engineer with expertise in Web Development. I have professional experience in MERN Stack development, UI/UX Designing, and Software Development. </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-abdullah2000&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-abdullah2000" /> </p>
 
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-abdullah2000&show_icons=true&locale=en" alt="muhammad-abdullah2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abdullah2000&" alt="muhammad-abdullah2000" /></p>
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Abdullah2000&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
